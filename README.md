@@ -10,9 +10,9 @@ Web challenges for the second CTF workshop!
 
 5. [IntroToBurp](https://play.picoctf.org/practice/challenge/419?category=1&page=1)
 6. [Crack The Gate 1](https://play.picoctf.org/practice/challenge/520?category=1&page=1)
-7. [Logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2)
+7. [Logon](https://play.picoctf.org/practice/challenge/46?category=1&page=2)  
 
-
+ 
 8. [SQLiLite](https://play.picoctf.org/practice/challenge/304?category=1&page=1&search=sqli) 
 9. [More SQLi](https://play.picoctf.org/practice/challenge/358?category=1&page=1&search=sqli)
 10. [3v@l](https://play.picoctf.org/practice/challenge/484?category=1&page=1&search=3v)
